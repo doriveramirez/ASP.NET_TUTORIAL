@@ -1,0 +1,7 @@
+[4].Ideas aplicadas [Duplicar cualquiera de las 2 diapositivas que he hecho y hacer una explicación similar a las que he hecho en cada diapositiva]:
+	-Base de datos de configuración (servicio) [enseñar SQL server con las 2 bases de datos y explicar por qué utilizamos 2]
+	-2 tablas: Funciones y usuarios (relación Many to Many) [enseñar el diagrama Entidad relación de esa base de datos]
+	-Crystal Report [Enseñar una captura de creación de un informe y un informe realizado a modo de ejemplo]
+	-Controlador de dominio en windows server [enseñar captura de pantalla de la máquina virtual con el servicio iniciado]
+[1].Ventajas y desventajas con otras herramientas
+[1].Participación de ambos componentes
